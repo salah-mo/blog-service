@@ -1,0 +1,22 @@
+body {
+    padding-top: 20px;
+}
+
+#upload-section, #search-section {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#search-results {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}

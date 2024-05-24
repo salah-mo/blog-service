@@ -124,13 +124,13 @@ To initialize the MongoDB database, follow these steps:
 3. Run the script using the `mongo` shell:
 
     ```bash
-    mongo <path_to_initBlogDB.js>
+    mongo <path_to_initBlogDB.scripts.js>
     ```
 
     Replace `<path_to_initBlogDB.js>` with the actual path to your `initBlogDB.js` file. For example, if the script is in your current directory, you can use:
 
     ```bash
-    mongo initBlogDB.js
+    mongo initBlogDB.scripts.js
     ```
 
 4. Verify the database initialization by connecting to MongoDB and checking the contents:
